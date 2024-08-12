@@ -26,3 +26,7 @@ Parquet - Apache Parquet File Format
 
 RAG - Retrieval-Augmented Generation
 
+
+# Other Glossaries That are Way Better
+
+https://developers.google.com/machine-learning/glossary/
