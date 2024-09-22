@@ -18,6 +18,13 @@ Bert - https://en.wikipedia.org/wiki/BERT_(language_model) - BERT langauge model
 
 Falcon, William - CEO Lighting AI, creator of pytorch lighting - https://github.com/williamFalcon  https://github.com/Lightning-AI/pytorch-lightning
 
+# L
+
+Lighting AI - Falcon, William - CEO Lighting AI, creator of pytorch lighting - https://github.com/williamFalcon  https://github.com/Lightning-AI/pytorch-lightning
+
+
+LangChain - LangChain is a framework for building applications on large language models.
+
 # P
 
 Parquet - Apache Parquet File Format
