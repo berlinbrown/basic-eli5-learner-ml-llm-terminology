@@ -14,6 +14,8 @@ Apache Spark - https://spark.apache.org/ - multi-language engine for executing d
 
 Bert - https://en.wikipedia.org/wiki/BERT_(language_model) - BERT langauge model - Bidirectional Encoder Representations from Transformers  by Google
 
+BPE - https://en.wikipedia.org/wiki/Byte_pair_encoding - Byte Pair encoding.
+
 # F
 
 Falcon, William - CEO Lighting AI, creator of pytorch lighting - https://github.com/williamFalcon  https://github.com/Lightning-AI/pytorch-lightning
@@ -33,6 +35,9 @@ Parquet - Apache Parquet File Format
 
 RAG - Retrieval-Augmented Generation
 
+# T
+
+Tiktoken - https://github.com/openai/tiktoken - popular library as a fast BPE tokeniser for use with OpenAI's models.
 
 # Other Glossaries That are Way Better
 
